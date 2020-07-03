@@ -1,2 +1,3 @@
 # Android-RecyclerView-Kotlin
-# android-recyclerview-kotlin
+
+A basic implementation of recyclerview written in kotlin.
